@@ -1,4 +1,4 @@
 # api.l2mega.net
 api.l2mega.net
 
-test deploy
+pull test
